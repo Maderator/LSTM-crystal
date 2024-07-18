@@ -1,0 +1,16 @@
+setuptools==71.0.3
+bayesian_optimization==1.4.3
+keras==3.3.3
+matplotlib
+multiprocess==0.70.16
+numpy
+onnx==1.16.1
+pandas==2.2.2
+pytest==8.2.2
+scikit_learn
+scipy==1.14.0
+tensorflow==2.16.1
+tensorflow_intel==2.16.1
+tf2onnx==1.16.1
+torch==2.3.1
+critdd @ git+https://github.com/mirkobunse/critdd@dc381ecd2a8b1b2e02f99f292aaff0fa3ae6f40d

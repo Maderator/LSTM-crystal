@@ -1,0 +1,19 @@
+{
+  "data": {
+    "path": "path/to/data.mat"
+  },
+  "net": {
+    "learning_rate": 0.001,
+    "batch_size": 32
+  },
+  "other": {
+    "more": {
+      "learning_rate": 0.001,
+      "batch_size": 32
+    },
+    "num_epochs": 100,
+    "save_every": 10,
+    "boolean": true,
+    "save_path": "path/to/save/model"
+  }
+}

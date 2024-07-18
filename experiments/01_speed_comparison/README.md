@@ -1,0 +1,3 @@
+This experiment compares matlab and tensorflow implementations of LSTM neural networks training time as a function of the number of layers and as a function of the number of hidden units.
+- matlab data were copied from folder `matlab/experiments/01_compareSpeed`
+- Computation for tensorflow LSTM is in `measure_tensorflow.ipynb` notebook. Experiments with networks depth in both tensorflow (tf) and matlab have 20 units in each layer.
